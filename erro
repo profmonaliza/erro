@@ -188,3 +188,4 @@ function spawnObstacles() {
     //adicione cada obstáculo ao grupo
     obstaclesGroup.add(obstacle);
   }
+}
